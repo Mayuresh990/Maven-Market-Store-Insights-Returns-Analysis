@@ -1,4 +1,4 @@
-# Maven-Market-Store-Insights-Returns-Analysis
+# Maven Market Store Insights Returns Analysis
 Power BI dashboard project for sales, profit, and return analysis of Maven Market
 
 This Power BI project presents a complete dashboard solution to analyze sales, profit, and returns for Maven Market using historical transaction data across multiple regions and product lines.

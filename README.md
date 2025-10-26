@@ -31,7 +31,7 @@ Key Insights
 Tools and Skills Used
 
 Power BI  
-Tableau
+,Tableau
 Power Query  
 Excel  
 DAX  

@@ -33,6 +33,7 @@ Tools and Skills Used
 Power BI  
 Power Query  
 Excel  
+Tableau
 DAX  
 Data Modeling  
 KPI Development  

@@ -31,9 +31,9 @@ Key Insights
 Tools and Skills Used
 
 Power BI  
+Tableau
 Power Query  
 Excel  
-Tableau
 DAX  
 Data Modeling  
 KPI Development  
